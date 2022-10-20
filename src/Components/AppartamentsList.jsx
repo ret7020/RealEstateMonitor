@@ -2,7 +2,8 @@ import React from "react";
 import Row from "react-bootstrap/Row";
 import Container from "react-bootstrap/Container";
 import AppartamentItem from "./ApartamentItem";
-import "../App.css"
+import "../App.css";
+
 const AppartamentsList = ({data}) => {
     return (
        <Container>

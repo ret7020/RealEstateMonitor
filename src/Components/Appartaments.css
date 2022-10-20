@@ -1,3 +1,29 @@
+* {
+    font-family: 'Roboto', sans-serif;
+
+}
 .appartamentslist {
     display: flex;
+}
+
+.release_date_text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.metro_station_name {
+    margin-left: 10px;
+    margin-top: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.metro_icon {
+    margin-bottom: 1px;
+}
+
+.address_text{
+    color: #777;
+    margin-top: 10px;
 }
