@@ -1,0 +1,19 @@
+.btn_left_filter {
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 0;
+    border-top-left-radius: 7px;
+}
+
+.btn_middle_filter {
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 0;
+}
+
+.btn_right_filter {
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 0;
+    border-top-right-radius: 7px;
+}

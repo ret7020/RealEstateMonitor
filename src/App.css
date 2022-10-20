@@ -10,3 +10,11 @@ body {
 .mt-60 {
   margin-top: 60px;
 }
+
+.filter_title {
+  font-size: 18px;
+  font-weight: 700;
+}
+.filters {
+  margin-top: 20px;
+}
