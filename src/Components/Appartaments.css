@@ -23,7 +23,23 @@
     margin-bottom: 1px;
 }
 
-.address_text{
+.address_text {
     color: #777;
     margin-top: 10px;
+}
+.image_filter_overlay_btn {
+    margin-right: 10px;
+}
+
+.appartament_item {
+    width: 270px;
+    margin-bottom: 30px;
+    border-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.appartament_item:hover {
+    background-color: #e1dcdc;
+    border-color: #e1dcdc;
 }
